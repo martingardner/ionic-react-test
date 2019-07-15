@@ -1,14 +1,19 @@
 # ionic-react-test
 testing ionic 4 + react
 
-#setup
+#cloning setup
 - clone repo
 - (if needed) npm install -g ionic@latest
 - npm install
 - ionic serve
 
+
 #instructions
 - instructions from https://ionicframework.com/docs/react/your-first-app
+- npm install -g ionic@latest (should install a version 5+)
+- ionic start myApp blank --type=react  (myApp is the name of the app, blank is whether a template or not)
+- cd to app folder
+- ionic serve (makes uses of ionic's catalyst so cordova isn't required anymore)
 
 # notes
 - you need to make sure your ionic version is 5+ or type=react won't be recognized
