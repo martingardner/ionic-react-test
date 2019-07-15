@@ -1,7 +1,7 @@
 # ionic-react-test
 testing ionic 4 + react
 
-#testing
+#instructions
 - instructions from https://ionicframework.com/docs/react/your-first-app
 
 # notes
